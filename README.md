@@ -134,6 +134,6 @@ Dự án này sử dụng license `MIT`. Bạn có thể tự do fork, chỉnh s
 
 ## 👤 Tác giả
 
-**GwenDev**  
-📬 GitHub: [gwendevz](https://github.com/gwendevz)  
+**Baodubai**  
+📬 GitHub: [baodubai](https://github.com/baodubaiiii)  
 

@@ -1,4 +1,4 @@
-# GwenDev_ZaloChat
+# Baodubai_ZaloChat
 
 Chatbot Zalo cá nhân được xây dựng bằng thư viện không chính thức [zca-js](https://tdung.gitbook.io/zca-js).
 
